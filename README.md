@@ -1,4 +1,4 @@
-# gArch
+# gProcessor
 A hypothetical and unrealistic idea of a microprocessor
 
 ### The Emulator
